@@ -1,4 +1,4 @@
-## Welcome to Jyothsna Chowdary Tharigopula Page 
+## Welcome to my page :)
  <br />
 
  - Name: Jyothsna Chowdary Tharigopula
