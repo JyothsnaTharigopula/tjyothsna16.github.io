@@ -1,6 +1,5 @@
 ## Welcome to Jyothsna Chowdary Tharigopula Page 
- ----------
-<br />
+ <br />
 
  - Name: Jyothsna Chowdary Tharigopula
 - Location: Boston, MA
@@ -9,7 +8,6 @@
 
 
 ## Computer Knowledge
- ----------
 <br />
 
 - Languages: Java (Object Oriented Programming), MySQL, C 
@@ -17,7 +15,6 @@
 
 
 ## About Me
- ----------
 <br />
 
 - I am a recent Master of Science graduate from Endicott with a major in Information Technology, I also have a Bachelor degree in Information Technology and a Postgraduate degree in Business Administration (Engineering Management). 
