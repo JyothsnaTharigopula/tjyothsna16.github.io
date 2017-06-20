@@ -15,7 +15,7 @@ There should be constant communication between the nation and the communities. W
 ## Sync With the Nation
 As you can see from the picture below, click on "Manager".
 
-![Clicking on "Manager"](uploads/images/nation.md1.png)
+![Clicking on "Manager"](uploads/images/nation.md1.png ("Manager Page"))
 
 Next, click on "Sync with Nation".
 
