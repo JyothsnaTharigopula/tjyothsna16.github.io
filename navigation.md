@@ -42,10 +42,8 @@
 [New Steps]()
 
   * [SubMenu Item 1](pages/subitem1.md)
-  * [SubMenu Item 2](pages/subitem2.md)
-       
+  * [SubMenu Item 2](pages/subitem2.md)       
 	   * [SubMenu Item 5](pages/subitem2.md)
-  
   * [SubMenu Item 6](pages/subitem2.md)   
    - - - -
   * # SubMenu Heading 2
