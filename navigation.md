@@ -41,7 +41,7 @@
 
 [First Steps]()
 
-  * [Start Here](pages/firststeps.md)
+  * # [Start Here](pages/firststeps.md)
   * [Step 0 - Introductory Steps](pages/firststeps.md#Step_0_-_Introductory_Steps)
   * [Step 1 - BeLL Installation](pages/firststeps.md#Step_1_-_BeLL_Installation)
   * [Step 2 - Vagrant Tutorial](pages/firststeps.md#Step_2_-_Vagrant_Tutorial)
